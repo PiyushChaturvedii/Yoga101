@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Yoga1/static/css/main.98e6db27.chunk.css",
+    "main.js": "/Yoga1/static/js/main.b03dd94e.chunk.js",
+    "main.js.map": "/Yoga1/static/js/main.b03dd94e.chunk.js.map",
+    "runtime-main.js": "/Yoga1/static/js/runtime-main.82808563.js",
+    "runtime-main.js.map": "/Yoga1/static/js/runtime-main.82808563.js.map",
+    "static/js/2.e6bc6e54.chunk.js": "/Yoga1/static/js/2.e6bc6e54.chunk.js",
+    "static/js/2.e6bc6e54.chunk.js.map": "/Yoga1/static/js/2.e6bc6e54.chunk.js.map",
+    "static/js/3.489f08ef.chunk.js": "/Yoga1/static/js/3.489f08ef.chunk.js",
+    "static/js/3.489f08ef.chunk.js.map": "/Yoga1/static/js/3.489f08ef.chunk.js.map",
+    "index.html": "/Yoga1/index.html",
+    "static/css/main.98e6db27.chunk.css.map": "/Yoga1/static/css/main.98e6db27.chunk.css.map",
+    "static/js/2.e6bc6e54.chunk.js.LICENSE.txt": "/Yoga1/static/js/2.e6bc6e54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82808563.js",
+    "static/js/2.e6bc6e54.chunk.js",
+    "static/css/main.98e6db27.chunk.css",
+    "static/js/main.b03dd94e.chunk.js"
+  ]
+}
