@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Yoga1/static/css/main.98e6db27.chunk.css",
-    "main.js": "/Yoga1/static/js/main.b03dd94e.chunk.js",
-    "main.js.map": "/Yoga1/static/js/main.b03dd94e.chunk.js.map",
+    "main.js": "/Yoga1/static/js/main.6739c566.chunk.js",
+    "main.js.map": "/Yoga1/static/js/main.6739c566.chunk.js.map",
     "runtime-main.js": "/Yoga1/static/js/runtime-main.82808563.js",
     "runtime-main.js.map": "/Yoga1/static/js/runtime-main.82808563.js.map",
     "static/js/2.e6bc6e54.chunk.js": "/Yoga1/static/js/2.e6bc6e54.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.82808563.js",
     "static/js/2.e6bc6e54.chunk.js",
     "static/css/main.98e6db27.chunk.css",
-    "static/js/main.b03dd94e.chunk.js"
+    "static/js/main.6739c566.chunk.js"
   ]
 }
