@@ -8,7 +8,7 @@ export default class Coach extends Component {
                     <div className="container">
                         <div className="main-coach">
                             <div className="img-coach">
-                                <img src="images/coach.png" alt />
+                                <img src="images/coach.png" alt="" />
                             </div>
                             <div className="description">
                                 <h1>

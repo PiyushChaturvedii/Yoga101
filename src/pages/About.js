@@ -19,12 +19,12 @@ export default class About extends Component {
                                 </p>
                             </div>
                             <div className="about-img">
-                                <img src="images/about.png" alt />
+                                <img src="images/about.png" alt="" />
                             </div>
                         </div>
                     </div>
                     <div className="bg-about">
-                        <img src="images/design/1.png" alt />
+                        <img src="images/design/1.png" alt="" />
                     </div>
                 </section>
 
